@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Layout de Teclado Brasileiro 1.5, LFOM 2006</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.keyboardlayout.marinho</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Brasileiro - ABNT2 PC</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>KLInfo_Brasileiro_ABNT2_PC</key>
+	<dict>
+		<key>ISOCode</key>
+		<string>pt_BR</string>
+	</dict>
+	<key>KLInfo_Brasil</key>
+	<dict>
+		<key>ISOCode</key>
+		<string>pt_BR</string>
+	</dict>
+</dict>
+</plist>
