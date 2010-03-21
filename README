@@ -1,8 +1,16 @@
+VISÃO GERAL
+-----------
+
+Este é um fork do layout disponível em: http://brevesnotas.com/keyboard-layouts-macintosh/
+
+Com a diferença que aquele é (ou parece ser) voltado para teclados Apple, enquanto que
+este é para teclas de outras marcas convencionais para PCs.
+
 PARA UTILIZAR
 -------------
 
-Copiar conteúdo para nova pasta chamada "Brasileiro_ABNT2_PC.bundle" e copiar para
-dentro de "~/Library/Keyboard Layouts".
+Copiar pasta Brasileiro_ABNT2_PC com o nome de "Brasileiro_ABNT2_PC.bundle" para dentro de
+"~/Library/Keyboard Layouts".
 
 A FAZER
 -------
