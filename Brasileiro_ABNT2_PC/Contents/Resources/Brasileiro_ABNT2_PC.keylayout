@@ -443,7 +443,7 @@
 <key code="47" output="&#x2026;"/>
 <key code="48" output="&#x0009;"/>
 <key code="49" output="&#x00a0;"/>
-<key code="50" output="&#x00ba;"/> <!-- Marinho. era "&#x2264;" -->
+<key code="50" output="&#x00ba;"/> <!-- Marinho. era "&#x2264;" x00ab -->
 <key code="51" output="&#x0008;"/>
 <key code="52" output="&#x0003;"/>
 <key code="53" output="&#x001b;"/>
@@ -558,7 +558,7 @@
 <key code="47" output="&#x00b7;"/>
 <key code="48" output="&#x0009;"/>
 <key code="49" output="&#x00a0;"/>
-<key code="50" output="&#x203a;"/> <!-- Marinho. era "&#x2265;" -->
+<key code="50" output="&#x203a;"/> <!-- Marinho. era "&#x2265;" x00bb -->
 <key code="51" output="&#x0008;"/>
 <key code="52" output="&#x0003;"/>
 <key code="53" output="&#x001b;"/>
@@ -673,7 +673,7 @@
 <key code="47" output="&#x2026;"/>
 <key code="48" output="&#x0009;"/>
 <key code="49" output="&#x00a0;"/>
-<key code="50" output="&#x00ba;"/> <!-- Marinho. era "&#x2264;" -->
+<key code="50" output="&#x2039;"/> <!-- Marinho. era "&#x2264;" x00ab -->
 <key code="51" output="&#x0008;"/>
 <key code="52" output="&#x0003;"/>
 <key code="53" output="&#x001b;"/>
@@ -788,7 +788,7 @@
 <key code="47" output="&#x2026;"/>
 <key code="48" output="&#x0009;"/>
 <key code="49" output="&#x00a0;"/>
-<key code="50" output="&#x00ba;"/> <!-- Marinho. era "&#x2264;" -->
+<key code="50" output="&#x2039;"/> <!-- Marinho. era "&#x2264;" x00ab -->
 <key code="51" output="&#x0008;"/>
 <key code="52" output="&#x0003;"/>
 <key code="53" output="&#x001b;"/>
